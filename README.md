@@ -47,4 +47,7 @@ Computer Graphics: The golden spiral, related to Fibonacci ratios, is used for a
 Cryptography & Random Number Generation: Modified Fibonacci sequences are sometimes used in pseudo-random number generators.
 
 Conclusion:
-A Fibonacci Generator is more than just a function that lists numbers—it is a versatile computational tool rooted in one of the most famous sequences in mathematics. Depending on how it is implemented, it can serve educational purposes, drive complex algorithms, or simulate natural patterns. Whether used in simple classroom exercises or in advanced computing applications, Fibonacci Generators demonstrate how a simple recursive rule can lead to a world of intricate and practical results
+A Fibonacci Generator is more than just a function that lists numbers—it is a versatile computational tool rooted in one of the most famous sequences in mathematics. Depending on how it is implemented, it can serve educational purposes, drive complex algorithms, or simulate natural patterns. Whether used in simple classroom exercises or in advanced computing applications, Fibonacci Generators demonstrate how a simple recursive rule can lead to a world of intricate and practical results.
+
+## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/30bb98b8-b210-4aa3-a58c-b672acb25140)
