@@ -28,9 +28,6 @@ Recursive Generator: This method uses a function that calls itself to compute ea
 
 Generator Functions in Programming: In languages like Python, Fibonacci numbers can be produced using generator functions, which yield one Fibonacci number at a time. This is memory-efficient and suitable for generating large sequences lazily, on demand.
 
-python
-Copy
-Edit
 def fibonacci_generator():
     a, b = 0, 1
     while True:
